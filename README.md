@@ -4,7 +4,7 @@
 
 ### 🚀 Fullstack Engineer | GIS Developer | AI & SaaS Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Fullstack+Engineer+from+Nepal;Building+GIS+%26+Travel+Tech;Exploring+AI+Agents+%26+RAG;Backend+Focused+Developer;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Fullstack+Engineer+from+Nepal;Building[...]
 
 <br/>
 
@@ -111,7 +111,7 @@ const bibhushan = {
 - MapLibre Integration
 - Booking System
 
-🔗 https://github.com/Bibhushan336
+🔗 https://www.neptrails.com/
 
 ---
 
@@ -123,7 +123,7 @@ const bibhushan = {
 - CRM Dashboard
 - SaaS Architecture
 
-🔗 https://github.com/Bibhushan336
+🔗 https://www.dmconsole.com/
 
 ---
 
@@ -135,7 +135,19 @@ const bibhushan = {
 - Restaurant Listings
 - Reviews & Ratings
 
-🔗 https://github.com/Bibhushan336
+🔗 https://trustflavor.vercel.app/
+
+---
+
+## 🛠️ SuperSaaSKit
+> Complete SaaS starter kit with modern tech stack.
+
+- Pre-built SaaS infrastructure
+- Authentication & Authorization
+- Payment Integration
+- Scalable Architecture
+
+🔗 https://www.supersaaskit.site/
 
 ---
 
@@ -199,12 +211,20 @@ const bibhushan = {
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/bibhushan-thapa-b2584820b/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="https://x.com/bibhushan_dev">
+<img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="mailto:thapabibhushan@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.bibhushanthapa.com.np/">
+<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
 </div>
