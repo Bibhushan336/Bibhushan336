@@ -4,7 +4,7 @@
 
 ### 🚀 Fullstack Engineer | GIS Developer | AI & SaaS Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Fullstack+Engineer+from+Nepal;Building[...]
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Fullstack+Engineer+from+Nepal;Building+GIS+%26+Travel+Tech;Exploring+AI+Agents+%26+RAG;Backend+Focused+Developer;Open+Source+Enthusiast" />
 
 <br/>
 
